@@ -1,0 +1,18 @@
+body {
+    background-color: #f7f5db;
+    margin: 10px 0;
+}
+
+.maximized {
+    width: 96%;
+    min-height: 100vh;
+    margin: auto;
+    textarea {
+        min-height: 95vh;
+        resize: none;
+    }
+}
+
+.hide {
+    display: none;
+}
