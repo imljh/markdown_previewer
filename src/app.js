@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MdEditor from './components/editor/editor';
-import MdPreviewer from './components/previewer/previewer';
+import MdEditor from './components/editor';
+import MdPreviewer from './components/previewer';
 import marked from 'marked';
 import './common.scss';
 

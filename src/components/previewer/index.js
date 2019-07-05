@@ -1,6 +1,6 @@
 import React from 'react';
-import ToolBar from '../toolbar/toolbar';
-import './previewer.scss';
+import ToolBar from '../toolbar';
+import './index.scss';
 //import '../../common.scss';
 
 class MdPreviewer extends React.Component {

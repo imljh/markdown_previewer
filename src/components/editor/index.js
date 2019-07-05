@@ -1,6 +1,6 @@
 import React from 'react';
-import ToolBar from '../toolbar/toolbar';
-import './editor.scss';
+import ToolBar from '../toolbar';
+import './index.scss';
 //import '../../common.scss';
 
 class MdEditor extends React.Component {

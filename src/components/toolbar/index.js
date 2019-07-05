@@ -1,5 +1,5 @@
 import React from 'react';
-import './toolbar.scss';
+import './index.scss';
 
 export default function ToolBar(props) {
     const fullScreen = '&#xe7ec;';
